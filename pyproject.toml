@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invEngine"
+version = "0.1.0"
+description = "Inventory engine"
+authors = [{ name = "David Pavie" }]
+requires-python = ">=3.10"
